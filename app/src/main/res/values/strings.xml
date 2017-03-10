@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SQLClearTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="write">写数据库</string>
+    <string name="read">读数据库</string>
+</resources>
