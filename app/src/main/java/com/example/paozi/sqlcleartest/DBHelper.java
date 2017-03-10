@@ -12,7 +12,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DBHelper extends SQLiteOpenHelper {
 
     private static final String SQL_CREATE_TABLE = "CREATE TABLE IF NOT EXISTS test(" +
-            "id integer primary key autoincrement, " +
+            "_id integer primary key autoincrement, " +
             "desc text)" ;
 
     private static DBHelper helper;
